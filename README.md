@@ -1,4 +1,4 @@
-  My name is Saikrishna, Pursuing P.h.D in Atmosphere and Ocean Sciences at NIT-Rourkela with 4+ years of Experience in working in High-Performance Computing (HPC)    Environment, WRF development (updating SST, LULC, and Spectral nudging).
+  My name is Saikrishna, Pursuing P.h.D in Atmosphere and Ocean Sciences at National Institute of Techonlogy,Rourkela with 4+ years of Experience in working with High-Performance Computing (HPC) Environment, development of Weather Research and Forecasting (WRF)
   
 -#######################
 
