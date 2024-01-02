@@ -1,4 +1,4 @@
-  My name is Saikrishna, Pursuing P.h.D in Atmosphere and Ocean Sciences at the National Institute of Technology, Rourkela. I am with 4+ years of Experience in working with High-Performance Computing (HPC) Environments, understanding/analysing the Advancements of Weather Research and Forecasting (WRF), and analysing large data sets by using visualisation programming languages. 
+My name is Saikrishna, and I received my doctorate from the National Institute of Technology, Rourkela, in atmosphere and ocean sciences. I have worked in high-performance computing (HPC) environments for more than four years. I also understand and have analysed the advancements in weather research and forecasting (WRF), and I have used programming languages (Python,NCL) for visualisation to analyse big data sets. 
   -#######################
 
 5+ years’ working experience in High-Performance Computing Environment, Significant knowledge to improvement in seasonal simulations using WRF.
